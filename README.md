@@ -31,3 +31,4 @@ Pandas & NumPy
 Matplotlib & Seaborn
 
 This task demonstrates the importance of EDA in understanding real-world datasets and building a strong foundation for data-driven decision-making.
+<img width="1550" height="864" alt="Screenshot (337)" src="https://github.com/user-attachments/assets/393fc5a7-0bb1-4417-b7f3-5c981d96108f" />
