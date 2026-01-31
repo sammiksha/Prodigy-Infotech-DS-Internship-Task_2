@@ -1,8 +1,8 @@
 # Prodigy-Infotech-DS-Internship-Task_2
-Task 02 – Data Cleaning &amp; Exploratory Data Analysis (EDA): Performed data cleaning and EDA on the Titanic dataset to analyze survival patterns and relationships between variables using Python, Pandas, Matplotlib, and Seaborn.
+Task 02 – Data Cleaning &amp; Exploratory Data Analysis (EDA): Performed data cleaning and EDA on the dataset to analyze survival patterns and relationships between variables using Python, Pandas, Matplotlib, and Seaborn.
 📌 Task 02: Data Cleaning & Exploratory Data Analysis (EDA)
 
-This task focuses on performing data cleaning and Exploratory Data Analysis (EDA) on the Titanic dataset to understand data structure, identify patterns, and extract meaningful insights.
+This task focuses on performing data cleaning and Exploratory Data Analysis (EDA) on the dataset to understand data structure, identify patterns, and extract meaningful insights.
 
 🔍 Objectives
 
